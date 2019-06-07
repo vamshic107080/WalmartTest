@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WalmartTest</string>
+    <string name="tag_statuscode">statusCode</string>
+    <string name="tag_totalproducts">totalProducts</string>
+    <string name="tag_products">products</string>
+    <string name="msg_fail">Failed to load products.</string>
+    <string name="product_details">Product Details</string>
+    <string name="tag_product_json">productJson</string>
+    <string name="products_list">Products List</string>
+</resources>
